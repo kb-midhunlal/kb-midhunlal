@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Midhun Lal (aka @kb-midhunlal) 👨‍💻
+# 👋 Hey there, I'm Midhun Lal ( @kb-midhunlal) 👨‍💻
 
 🚀 Passionate Computer Vision & Machine Learning Engineer  
 🎯 Turning pixels into purpose with deep learning and code  
@@ -30,9 +30,9 @@
 ---
 
 ### 📫 Reach Me At
-- ✉️ Email: [kbmidhunlal@gmail.com](mailto:kbmidhunlal@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/midhunlal](https://www.linkedin.com/in/midhunlal)
-- 🧠 Portfolio: [midhunlal.dev](#) *(or your domain here)*
+- ✉️ Email: [kb.midhunlal@gmail.com](mailto:kb.midhunlal@gmail.com)
+- 💼 LinkedIn: .
+- 🧠 Portfolio: [](#) *(or your domain here)*
 
 ---
 
