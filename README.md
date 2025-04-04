@@ -1,73 +1,72 @@
-<h1 align="center">Hi 👋, I'm Midhun Lal</h1>
-<h3 align="center">🚀 Building smart solutions with Computer Vision & Machine Learning</h3>
+# 👋 Hey there, I'm Midhun Lal (aka @kb-midhunlal) 👨‍💻
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kb-midhunlal&label=Profile%20views&color=0e75b6&style=flat" alt="kb-midhunlal" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 👨‍💻 I’m a **Computer Vision & Machine Learning Engineer** with 2 years of hands-on experience
-- 🔭 Currently working on **real-time object detection, segmentation & edge AI**
-- 🌱 I’m diving deeper into **Generative AI, YOLOv8, and 3D vision**
-- 🧠 I'm fascinated by **autonomous systems, smart agriculture, and AI for good**
-- 📫 Reach me at: **kbmidhunlal@gmail.com**
-- 🌍 Portfolio: [Visit my Portfolio](https://your-portfolio-link.com)
+🚀 Passionate Computer Vision & Machine Learning Engineer  
+🎯 Turning pixels into purpose with deep learning and code  
+🌍 Building intelligent solutions that *see*, *understand*, and *act*
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages:**  
-`Python` | `C++` | `HTML` | `C`
-
-**Libraries & Frameworks:**  
-`OpenCV` | `PyTorch` | `TensorFlow` | `Keras` | `YOLO` | `Flask` | `Scikit-learn`  
-
-**Tools & Platforms:**  
-`Git` | `Anaconda` | `Jupyter` | `VS Code` | `Raspberry Pi` | `Spyder`
-
-**Other Interests:**  
-`NLP`, `Sign Language Translation`, `IoT`, `Deep Learning on Edge`
+### 👀 Interests
+- 🧠 Deep Learning | 📷 Computer Vision | 🤖 AI in real-world systems
+- 🏭 Smart Industry Projects – Safety Helmets, Gear Damage, etc.
+- 🏥 Healthcare AI – Tumor & Skin Lesion Classification
+- 🚗 ADAS | Object Detection | Image Segmentation
+- 🌾 Agriculture AI | Smart Farming
 
 ---
 
-### 💡 Projects Spotlight
-
-🚘 **ADAS System** – Real-time detection of traffic signs, pedestrians, and lane lines  
-🧠 **Brain Tumor Classifier** – MRI-based tumor segmentation using CNNs  
-🪴 **Weed Detector for Smart Farming** – Instance segmentation of crops vs weeds  
-🛑 **Helmet & Vest Detector** – Safety compliance checker for construction sites  
-📜 **Image Caption Generator** – Combines CV + NLP to describe images with transformers
-
-> Check out more on my [Project Portfolio](https://your-portfolio-link.com/updated_portfolio.html)
+### 🌱 Currently Learning
+- 🔍 Advanced Model Optimization for Edge Devices
+- 🧩 3D Vision & Multimodal Learning
+- 🛠️ ONNX, TensorRT, and Model Deployment Pipelines
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kb-midhunlal&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kb-midhunlal&theme=radical" alt="GitHub Streak" />
-</p>
+### 🤝 Let’s Collaborate On
+- Cutting-edge CV/ML projects 🧠  
+- Model deployment in real-time systems ⏱️  
+- Building cool, open-source stuff together 💡
 
 ---
 
-### 📫 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/midhun-lal-kb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:kb.midhunlal@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
-  <a href="https://github.com/kb-midhunlal"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"></a>
-</p>
+### 📫 Reach Me At
+- ✉️ Email: [kbmidhunlal@gmail.com](mailto:kbmidhunlal@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/midhunlal](https://www.linkedin.com/in/midhunlal)
+- 🧠 Portfolio: [midhunlal.dev](#) *(or your domain here)*
 
 ---
 
-<p align="center">
-  ✨ Let's build something amazing with AI ✨
-</p>
+### 🧰 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-FF4081?style=flat&logo=darkreader&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### ⚡ Fun Fact
+> I can train a neural network to detect a pothole...  
+> but I still *sometimes* trip over them in real life 😄
+
+---
+
+### 📊 GitHub Stats
+![Midhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kb-midhunlal&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-midhunlal&layout=compact&theme=tokyonight)
+
+---
+
+### 🧠 Quote I Live By:
+> *"The best way to predict the future is to create it."* — Abraham Lincoln
+
+---
+
+<!---
+kb-midhunlal/kb-midhunlal is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
