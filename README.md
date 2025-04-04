@@ -21,13 +21,13 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Python` | `C++` | `HTML` | `JavaScript`
+`Python` | `C++` | `HTML` | `C`
 
 **Libraries & Frameworks:**  
 `OpenCV` | `PyTorch` | `TensorFlow` | `Keras` | `YOLO` | `Flask` | `Scikit-learn`  
 
 **Tools & Platforms:**  
-`Git` | `Docker` | `Jupyter` | `VS Code` | `Raspberry Pi` | `Jetson Nano`
+`Git` | `Anaconda` | `Jupyter` | `VS Code` | `Raspberry Pi` | `Spyder`
 
 **Other Interests:**  
 `NLP`, `Sign Language Translation`, `IoT`, `Deep Learning on Edge`
