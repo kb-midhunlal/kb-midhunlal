@@ -6,7 +6,7 @@
 
 ---
 
-### 👀 Interests
+###  Interests
 - 🧠 Deep Learning | 📷 Computer Vision | 🤖 AI in real-world systems
 - 🏭 Smart Industry Projects – Safety Helmets, Gear Damage, etc.
 - 🏥 Healthcare AI – Tumor & Skin Lesion Classification
@@ -15,14 +15,14 @@
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 - 🔍 Advanced Model Optimization for Edge Devices
 - 🧩 3D Vision & Multimodal Learning
 - 🛠️ ONNX, TensorRT, and Model Deployment Pipelines
 
 ---
 
-### 🤝 Let’s Collaborate On
+###  Let’s Collaborate On
 - Cutting-edge CV/ML projects 🧠  
 - Model deployment in real-time systems ⏱️  
 - Building cool, open-source stuff together 💡
@@ -30,7 +30,7 @@
 ---
 
 ### 📫 Reach Me At
-- ✉️ Email: [kb.midhunlal@gmail.com](mailto:kb.midhunlal@gmail.com)
+- ✉️ Email: [midhunlal.techs@gmail.com](mailto:midhunlal.techs@gmail.com)
 - 💼 LinkedIn: .
 - 🧠 Portfolio: [](#) *(or your domain here)*
 
